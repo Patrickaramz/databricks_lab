@@ -8,7 +8,7 @@ Ett dataprojekt i Databricks Lakehouse som analyserar marathon och friidrottsdat
 
 I Gold-lagret har datan modellerats i ett star schema för snabb och effektiv analys:
 
-![Dimensional Model](star_schema.png)
+![Dimensional Model](docs/star_schema.png)
 
 ### Tabeller i modellen:
 * Fakttabell:** `fct_results` (Loppresultat och tider)
